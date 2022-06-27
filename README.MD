@@ -17,9 +17,13 @@ Un Wireframe representa de forma sencilla la organización de los elementos de u
 
 Por ejemplo, podemos hacer nuestro diseño a mano, con papel y lápiz o con una herramienta de pizarra electrónica.
 
-![](resources/hand-wireframe.svg)
+![](resources/hand-drawn-wireframe-1024x683.jpeg)
 
 Nosotros en principio vamos a utilizar una herramienta llamada [Figma](https://figma.com).
+
+El wireframe nos permite simular la interacción que el usuario tendrá con la web, decidir los componentes que la forman, organizar la información pensando en las necesidades del usuario y mucho más.
+
+Es simplemente poner nuestras ideas por escrito.
 
 ## UI
 
